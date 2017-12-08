@@ -1,7 +1,7 @@
 [
     {
         "Country": "Norway",
-        "Happiness.Rank": 1,
+        "Happiness_Rank": 1,
         "Happiness.Score": 7.53700017929077,
         "Whisker.high": 7.59444482058287,
         "Whisker.low": 7.47955553799868,
@@ -15,7 +15,7 @@
     },
     {
         "Country": "Denmark",
-        "Happiness.Rank": 2,
+        "Happiness_Rank": 2,
         "Happiness.Score": 7.52199983596802,
         "Whisker.high": 7.58172806486487,
         "Whisker.low": 7.46227160707116,
@@ -29,7 +29,7 @@
     },
     {
         "Country": "Iceland",
-        "Happiness.Rank": 3,
+        "Happiness_Rank": 3,
         "Happiness.Score": 7.50400018692017,
         "Whisker.high": 7.62203047305346,
         "Whisker.low": 7.38596990078688,
@@ -43,7 +43,7 @@
     },
     {
         "Country": "Switzerland",
-        "Happiness.Rank": 4,
+        "Happiness_Rank": 4,
         "Happiness.Score": 7.49399995803833,
         "Whisker.high": 7.56177242040634,
         "Whisker.low": 7.42622749567032,
@@ -57,7 +57,7 @@
     },
     {
         "Country": "Finland",
-        "Happiness.Rank": 5,
+        "Happiness_Rank": 5,
         "Happiness.Score": 7.4689998626709,
         "Whisker.high": 7.52754207581282,
         "Whisker.low": 7.41045764952898,
@@ -71,7 +71,7 @@
     },
     {
         "Country": "Netherlands",
-        "Happiness.Rank": 6,
+        "Happiness_Rank": 6,
         "Happiness.Score": 7.3769998550415,
         "Whisker.high": 7.42742584124207,
         "Whisker.low": 7.32657386884093,
@@ -85,7 +85,7 @@
     },
     {
         "Country": "Canada",
-        "Happiness.Rank": 7,
+        "Happiness_Rank": 7,
         "Happiness.Score": 7.31599998474121,
         "Whisker.high": 7.38440283536911,
         "Whisker.low": 7.24759713411331,
@@ -99,7 +99,7 @@
     },
     {
         "Country": "New Zealand",
-        "Happiness.Rank": 8,
+        "Happiness_Rank": 8,
         "Happiness.Score": 7.31400012969971,
         "Whisker.high": 7.3795104418695,
         "Whisker.low": 7.24848981752992,
@@ -113,7 +113,7 @@
     },
     {
         "Country": "Sweden",
-        "Happiness.Rank": 9,
+        "Happiness_Rank": 9,
         "Happiness.Score": 7.28399991989136,
         "Whisker.high": 7.34409487739205,
         "Whisker.low": 7.22390496239066,
@@ -127,7 +127,7 @@
     },
     {
         "Country": "Australia",
-        "Happiness.Rank": 10,
+        "Happiness_Rank": 10,
         "Happiness.Score": 7.28399991989136,
         "Whisker.high": 7.35665122494102,
         "Whisker.low": 7.2113486148417,
@@ -141,7 +141,7 @@
     },
     {
         "Country": "Israel",
-        "Happiness.Rank": 11,
+        "Happiness_Rank": 11,
         "Happiness.Score": 7.21299982070923,
         "Whisker.high": 7.27985325649381,
         "Whisker.low": 7.14614638492465,
@@ -155,7 +155,7 @@
     },
     {
         "Country": "Costa Rica",
-        "Happiness.Rank": 12,
+        "Happiness_Rank": 12,
         "Happiness.Score": 7.0789999961853,
         "Whisker.high": 7.16811166629195,
         "Whisker.low": 6.98988832607865,
@@ -169,7 +169,7 @@
     },
     {
         "Country": "Austria",
-        "Happiness.Rank": 13,
+        "Happiness_Rank": 13,
         "Happiness.Score": 7.00600004196167,
         "Whisker.high": 7.07066981211305,
         "Whisker.low": 6.94133027181029,
@@ -183,7 +183,7 @@
     },
     {
         "Country": "United States",
-        "Happiness.Rank": 14,
+        "Happiness_Rank": 14,
         "Happiness.Score": 6.99300003051758,
         "Whisker.high": 7.07465674757957,
         "Whisker.low": 6.91134331345558,
@@ -197,7 +197,7 @@
     },
     {
         "Country": "Ireland",
-        "Happiness.Rank": 15,
+        "Happiness_Rank": 15,
         "Happiness.Score": 6.97700023651123,
         "Whisker.high": 7.04335166752338,
         "Whisker.low": 6.91064880549908,
@@ -211,7 +211,7 @@
     },
     {
         "Country": "Germany",
-        "Happiness.Rank": 16,
+        "Happiness_Rank": 16,
         "Happiness.Score": 6.95100021362305,
         "Whisker.high": 7.00538156926632,
         "Whisker.low": 6.89661885797977,
@@ -225,7 +225,7 @@
     },
     {
         "Country": "Belgium",
-        "Happiness.Rank": 17,
+        "Happiness_Rank": 17,
         "Happiness.Score": 6.89099979400635,
         "Whisker.high": 6.95582075044513,
         "Whisker.low": 6.82617883756757,
@@ -239,7 +239,7 @@
     },
     {
         "Country": "Luxembourg",
-        "Happiness.Rank": 18,
+        "Happiness_Rank": 18,
         "Happiness.Score": 6.86299991607666,
         "Whisker.high": 6.92368609987199,
         "Whisker.low": 6.80231373228133,
@@ -253,7 +253,7 @@
     },
     {
         "Country": "United Kingdom",
-        "Happiness.Rank": 19,
+        "Happiness_Rank": 19,
         "Happiness.Score": 6.71400022506714,
         "Whisker.high": 6.78379176110029,
         "Whisker.low": 6.64420868903399,
@@ -267,7 +267,7 @@
     },
     {
         "Country": "Chile",
-        "Happiness.Rank": 20,
+        "Happiness_Rank": 20,
         "Happiness.Score": 6.65199995040894,
         "Whisker.high": 6.73925056010485,
         "Whisker.low": 6.56474934071302,
@@ -281,7 +281,7 @@
     },
     {
         "Country": "United Arab Emirates",
-        "Happiness.Rank": 21,
+        "Happiness_Rank": 21,
         "Happiness.Score": 6.64799976348877,
         "Whisker.high": 6.72204730376601,
         "Whisker.low": 6.57395222321153,
@@ -295,7 +295,7 @@
     },
     {
         "Country": "Brazil",
-        "Happiness.Rank": 22,
+        "Happiness_Rank": 22,
         "Happiness.Score": 6.63500022888184,
         "Whisker.high": 6.72546950161457,
         "Whisker.low": 6.5445309561491,
@@ -309,7 +309,7 @@
     },
     {
         "Country": "Czech Republic",
-        "Happiness.Rank": 23,
+        "Happiness_Rank": 23,
         "Happiness.Score": 6.60900020599365,
         "Whisker.high": 6.68386246263981,
         "Whisker.low": 6.5341379493475,
@@ -323,7 +323,7 @@
     },
     {
         "Country": "Argentina",
-        "Happiness.Rank": 24,
+        "Happiness_Rank": 24,
         "Happiness.Score": 6.59899997711182,
         "Whisker.high": 6.69008508607745,
         "Whisker.low": 6.50791486814618,
@@ -337,7 +337,7 @@
     },
     {
         "Country": "Mexico",
-        "Happiness.Rank": 25,
+        "Happiness_Rank": 25,
         "Happiness.Score": 6.57800006866455,
         "Whisker.high": 6.67114890769124,
         "Whisker.low": 6.48485122963786,
@@ -351,7 +351,7 @@
     },
     {
         "Country": "Singapore",
-        "Happiness.Rank": 26,
+        "Happiness_Rank": 26,
         "Happiness.Score": 6.57200002670288,
         "Whisker.high": 6.63672306910157,
         "Whisker.low": 6.50727698430419,
@@ -365,7 +365,7 @@
     },
     {
         "Country": "Malta",
-        "Happiness.Rank": 27,
+        "Happiness_Rank": 27,
         "Happiness.Score": 6.52699995040894,
         "Whisker.high": 6.59839677289128,
         "Whisker.low": 6.45560312792659,
@@ -379,7 +379,7 @@
     },
     {
         "Country": "Uruguay",
-        "Happiness.Rank": 28,
+        "Happiness_Rank": 28,
         "Happiness.Score": 6.4539999961853,
         "Whisker.high": 6.54590621769428,
         "Whisker.low": 6.36209377467632,
@@ -393,7 +393,7 @@
     },
     {
         "Country": "Guatemala",
-        "Happiness.Rank": 29,
+        "Happiness_Rank": 29,
         "Happiness.Score": 6.4539999961853,
         "Whisker.high": 6.56687397271395,
         "Whisker.low": 6.34112601965666,
@@ -407,7 +407,7 @@
     },
     {
         "Country": "Panama",
-        "Happiness.Rank": 30,
+        "Happiness_Rank": 30,
         "Happiness.Score": 6.4520001411438,
         "Whisker.high": 6.55713071614504,
         "Whisker.low": 6.34686956614256,
@@ -421,7 +421,7 @@
     },
     {
         "Country": "France",
-        "Happiness.Rank": 31,
+        "Happiness_Rank": 31,
         "Happiness.Score": 6.44199991226196,
         "Whisker.high": 6.51576780244708,
         "Whisker.low": 6.36823202207685,
@@ -435,7 +435,7 @@
     },
     {
         "Country": "Thailand",
-        "Happiness.Rank": 32,
+        "Happiness_Rank": 32,
         "Happiness.Score": 6.42399978637695,
         "Whisker.high": 6.50911685571074,
         "Whisker.low": 6.33888271704316,
@@ -449,7 +449,7 @@
     },
     {
         "Country": "Taiwan Province of China",
-        "Happiness.Rank": 33,
+        "Happiness_Rank": 33,
         "Happiness.Score": 6.42199993133545,
         "Whisker.high": 6.49459602192044,
         "Whisker.low": 6.34940384075046,
@@ -463,7 +463,7 @@
     },
     {
         "Country": "Spain",
-        "Happiness.Rank": 34,
+        "Happiness_Rank": 34,
         "Happiness.Score": 6.40299987792969,
         "Whisker.high": 6.4710548453033,
         "Whisker.low": 6.33494491055608,
@@ -477,7 +477,7 @@
     },
     {
         "Country": "Qatar",
-        "Happiness.Rank": 35,
+        "Happiness_Rank": 35,
         "Happiness.Score": 6.375,
         "Whisker.high": 6.56847681432962,
         "Whisker.low": 6.18152318567038,
@@ -491,7 +491,7 @@
     },
     {
         "Country": "Colombia",
-        "Happiness.Rank": 36,
+        "Happiness_Rank": 36,
         "Happiness.Score": 6.35699987411499,
         "Whisker.high": 6.45202005416155,
         "Whisker.low": 6.26197969406843,
@@ -505,7 +505,7 @@
     },
     {
         "Country": "Saudi Arabia",
-        "Happiness.Rank": 37,
+        "Happiness_Rank": 37,
         "Happiness.Score": 6.3439998626709,
         "Whisker.high": 6.44416661202908,
         "Whisker.low": 6.24383311331272,
@@ -519,7 +519,7 @@
     },
     {
         "Country": "Trinidad and Tobago",
-        "Happiness.Rank": 38,
+        "Happiness_Rank": 38,
         "Happiness.Score": 6.16800022125244,
         "Whisker.high": 6.38153389066458,
         "Whisker.low": 5.95446655184031,
@@ -533,7 +533,7 @@
     },
     {
         "Country": "Kuwait",
-        "Happiness.Rank": 39,
+        "Happiness_Rank": 39,
         "Happiness.Score": 6.10500001907349,
         "Whisker.high": 6.1919569888711,
         "Whisker.low": 6.01804304927588,
@@ -547,7 +547,7 @@
     },
     {
         "Country": "Slovakia",
-        "Happiness.Rank": 40,
+        "Happiness_Rank": 40,
         "Happiness.Score": 6.09800004959106,
         "Whisker.high": 6.1773484121263,
         "Whisker.low": 6.01865168705583,
@@ -561,7 +561,7 @@
     },
     {
         "Country": "Bahrain",
-        "Happiness.Rank": 41,
+        "Happiness_Rank": 41,
         "Happiness.Score": 6.08699989318848,
         "Whisker.high": 6.17898906782269,
         "Whisker.low": 5.99501071855426,
@@ -575,7 +575,7 @@
     },
     {
         "Country": "Malaysia",
-        "Happiness.Rank": 42,
+        "Happiness_Rank": 42,
         "Happiness.Score": 6.08400011062622,
         "Whisker.high": 6.17997963652015,
         "Whisker.low": 5.98802058473229,
@@ -589,7 +589,7 @@
     },
     {
         "Country": "Nicaragua",
-        "Happiness.Rank": 43,
+        "Happiness_Rank": 43,
         "Happiness.Score": 6.07100009918213,
         "Whisker.high": 6.18658360034227,
         "Whisker.low": 5.95541659802198,
@@ -603,7 +603,7 @@
     },
     {
         "Country": "Ecuador",
-        "Happiness.Rank": 44,
+        "Happiness_Rank": 44,
         "Happiness.Score": 6.00799989700317,
         "Whisker.high": 6.10584767535329,
         "Whisker.low": 5.91015211865306,
@@ -617,7 +617,7 @@
     },
     {
         "Country": "El Salvador",
-        "Happiness.Rank": 45,
+        "Happiness_Rank": 45,
         "Happiness.Score": 6.00299978256226,
         "Whisker.high": 6.108635122329,
         "Whisker.low": 5.89736444279552,
@@ -631,7 +631,7 @@
     },
     {
         "Country": "Poland",
-        "Happiness.Rank": 46,
+        "Happiness_Rank": 46,
         "Happiness.Score": 5.97300004959106,
         "Whisker.high": 6.05390834122896,
         "Whisker.low": 5.89209175795317,
@@ -645,7 +645,7 @@
     },
     {
         "Country": "Uzbekistan",
-        "Happiness.Rank": 47,
+        "Happiness_Rank": 47,
         "Happiness.Score": 5.97100019454956,
         "Whisker.high": 6.06553757295012,
         "Whisker.low": 5.876462816149,
@@ -659,7 +659,7 @@
     },
     {
         "Country": "Italy",
-        "Happiness.Rank": 48,
+        "Happiness_Rank": 48,
         "Happiness.Score": 5.96400022506714,
         "Whisker.high": 6.04273690596223,
         "Whisker.low": 5.88526354417205,
@@ -673,7 +673,7 @@
     },
     {
         "Country": "Russia",
-        "Happiness.Rank": 49,
+        "Happiness_Rank": 49,
         "Happiness.Score": 5.96299982070923,
         "Whisker.high": 6.03027490749955,
         "Whisker.low": 5.89572473391891,
@@ -687,7 +687,7 @@
     },
     {
         "Country": "Belize",
-        "Happiness.Rank": 50,
+        "Happiness_Rank": 50,
         "Happiness.Score": 5.95599985122681,
         "Whisker.high": 6.19724231779575,
         "Whisker.low": 5.71475738465786,
@@ -701,7 +701,7 @@
     },
     {
         "Country": "Japan",
-        "Happiness.Rank": 51,
+        "Happiness_Rank": 51,
         "Happiness.Score": 5.92000007629395,
         "Whisker.high": 5.99071944460273,
         "Whisker.low": 5.84928070798516,
@@ -715,7 +715,7 @@
     },
     {
         "Country": "Lithuania",
-        "Happiness.Rank": 52,
+        "Happiness_Rank": 52,
         "Happiness.Score": 5.90199995040894,
         "Whisker.high": 5.98266964137554,
         "Whisker.low": 5.82133025944233,
@@ -729,7 +729,7 @@
     },
     {
         "Country": "Algeria",
-        "Happiness.Rank": 53,
+        "Happiness_Rank": 53,
         "Happiness.Score": 5.87200021743774,
         "Whisker.high": 5.97828643366694,
         "Whisker.low": 5.76571400120854,
@@ -743,7 +743,7 @@
     },
     {
         "Country": "Latvia",
-        "Happiness.Rank": 54,
+        "Happiness_Rank": 54,
         "Happiness.Score": 5.84999990463257,
         "Whisker.high": 5.92026353821158,
         "Whisker.low": 5.77973627105355,
@@ -757,7 +757,7 @@
     },
     {
         "Country": "South Korea",
-        "Happiness.Rank": 55,
+        "Happiness_Rank": 55,
         "Happiness.Score": 5.83799982070923,
         "Whisker.high": 5.92255902826786,
         "Whisker.low": 5.7534406131506,
@@ -771,7 +771,7 @@
     },
     {
         "Country": "Moldova",
-        "Happiness.Rank": 56,
+        "Happiness_Rank": 56,
         "Happiness.Score": 5.83799982070923,
         "Whisker.high": 5.90837083846331,
         "Whisker.low": 5.76762880295515,
@@ -785,7 +785,7 @@
     },
     {
         "Country": "Romania",
-        "Happiness.Rank": 57,
+        "Happiness_Rank": 57,
         "Happiness.Score": 5.82499980926514,
         "Whisker.high": 5.91969415679574,
         "Whisker.low": 5.73030546173453,
@@ -799,7 +799,7 @@
     },
     {
         "Country": "Bolivia",
-        "Happiness.Rank": 58,
+        "Happiness_Rank": 58,
         "Happiness.Score": 5.82299995422363,
         "Whisker.high": 5.9039769025147,
         "Whisker.low": 5.74202300593257,
@@ -813,7 +813,7 @@
     },
     {
         "Country": "Turkmenistan",
-        "Happiness.Rank": 59,
+        "Happiness_Rank": 59,
         "Happiness.Score": 5.82200002670288,
         "Whisker.high": 5.88518087550998,
         "Whisker.low": 5.75881917789578,
@@ -827,7 +827,7 @@
     },
     {
         "Country": "Kazakhstan",
-        "Happiness.Rank": 60,
+        "Happiness_Rank": 60,
         "Happiness.Score": 5.81899976730347,
         "Whisker.high": 5.90364177465439,
         "Whisker.low": 5.73435775995255,
@@ -841,7 +841,7 @@
     },
     {
         "Country": "North Cyprus",
-        "Happiness.Rank": 61,
+        "Happiness_Rank": 61,
         "Happiness.Score": 5.80999994277954,
         "Whisker.high": 5.89736646488309,
         "Whisker.low": 5.72263342067599,
@@ -855,7 +855,7 @@
     },
     {
         "Country": "Slovenia",
-        "Happiness.Rank": 62,
+        "Happiness_Rank": 62,
         "Happiness.Score": 5.75799989700317,
         "Whisker.high": 5.84222516000271,
         "Whisker.low": 5.67377463400364,
@@ -869,7 +869,7 @@
     },
     {
         "Country": "Peru",
-        "Happiness.Rank": 63,
+        "Happiness_Rank": 63,
         "Happiness.Score": 5.71500015258789,
         "Whisker.high": 5.81194677859545,
         "Whisker.low": 5.61805352658033,
@@ -883,7 +883,7 @@
     },
     {
         "Country": "Mauritius",
-        "Happiness.Rank": 64,
+        "Happiness_Rank": 64,
         "Happiness.Score": 5.62900018692017,
         "Whisker.high": 5.72986219167709,
         "Whisker.low": 5.52813818216324,
@@ -897,7 +897,7 @@
     },
     {
         "Country": "Cyprus",
-        "Happiness.Rank": 65,
+        "Happiness_Rank": 65,
         "Happiness.Score": 5.62099981307983,
         "Whisker.high": 5.71469269931316,
         "Whisker.low": 5.5273069268465,
@@ -911,7 +911,7 @@
     },
     {
         "Country": "Estonia",
-        "Happiness.Rank": 66,
+        "Happiness_Rank": 66,
         "Happiness.Score": 5.61100006103516,
         "Whisker.high": 5.68813987419009,
         "Whisker.low": 5.53386024788022,
@@ -925,7 +925,7 @@
     },
     {
         "Country": "Belarus",
-        "Happiness.Rank": 67,
+        "Happiness_Rank": 67,
         "Happiness.Score": 5.56899976730347,
         "Whisker.high": 5.64611424401402,
         "Whisker.low": 5.49188529059291,
@@ -939,7 +939,7 @@
     },
     {
         "Country": "Libya",
-        "Happiness.Rank": 68,
+        "Happiness_Rank": 68,
         "Happiness.Score": 5.52500009536743,
         "Whisker.high": 5.67695380687714,
         "Whisker.low": 5.37304638385773,
@@ -953,7 +953,7 @@
     },
     {
         "Country": "Turkey",
-        "Happiness.Rank": 69,
+        "Happiness_Rank": 69,
         "Happiness.Score": 5.5,
         "Whisker.high": 5.59486496329308,
         "Whisker.low": 5.40513503670692,
@@ -967,7 +967,7 @@
     },
     {
         "Country": "Paraguay",
-        "Happiness.Rank": 70,
+        "Happiness_Rank": 70,
         "Happiness.Score": 5.49300003051758,
         "Whisker.high": 5.57738126963377,
         "Whisker.low": 5.40861879140139,
@@ -981,7 +981,7 @@
     },
     {
         "Country": "Hong Kong S.A.R., China",
-        "Happiness.Rank": 71,
+        "Happiness_Rank": 71,
         "Happiness.Score": 5.47200012207031,
         "Whisker.high": 5.54959417313337,
         "Whisker.low": 5.39440607100725,
@@ -995,7 +995,7 @@
     },
     {
         "Country": "Philippines",
-        "Happiness.Rank": 72,
+        "Happiness_Rank": 72,
         "Happiness.Score": 5.42999982833862,
         "Whisker.high": 5.54533505424857,
         "Whisker.low": 5.31466460242867,
@@ -1009,7 +1009,7 @@
     },
     {
         "Country": "Serbia",
-        "Happiness.Rank": 73,
+        "Happiness_Rank": 73,
         "Happiness.Score": 5.39499998092651,
         "Whisker.high": 5.49156965613365,
         "Whisker.low": 5.29843030571938,
@@ -1023,7 +1023,7 @@
     },
     {
         "Country": "Jordan",
-        "Happiness.Rank": 74,
+        "Happiness_Rank": 74,
         "Happiness.Score": 5.33599996566772,
         "Whisker.high": 5.44841002240777,
         "Whisker.low": 5.22358990892768,
@@ -1037,7 +1037,7 @@
     },
     {
         "Country": "Hungary",
-        "Happiness.Rank": 75,
+        "Happiness_Rank": 75,
         "Happiness.Score": 5.32399988174438,
         "Whisker.high": 5.40303970918059,
         "Whisker.low": 5.24496005430818,
@@ -1051,7 +1051,7 @@
     },
     {
         "Country": "Jamaica",
-        "Happiness.Rank": 76,
+        "Happiness_Rank": 76,
         "Happiness.Score": 5.31099987030029,
         "Whisker.high": 5.58139872848988,
         "Whisker.low": 5.04060101211071,
@@ -1065,7 +1065,7 @@
     },
     {
         "Country": "Croatia",
-        "Happiness.Rank": 77,
+        "Happiness_Rank": 77,
         "Happiness.Score": 5.29300022125244,
         "Whisker.high": 5.39177720457315,
         "Whisker.low": 5.19422323793173,
@@ -1079,7 +1079,7 @@
     },
     {
         "Country": "Kosovo",
-        "Happiness.Rank": 78,
+        "Happiness_Rank": 78,
         "Happiness.Score": 5.27899980545044,
         "Whisker.high": 5.36484799548984,
         "Whisker.low": 5.19315161541104,
@@ -1093,7 +1093,7 @@
     },
     {
         "Country": "China",
-        "Happiness.Rank": 79,
+        "Happiness_Rank": 79,
         "Happiness.Score": 5.27299976348877,
         "Whisker.high": 5.31927808977663,
         "Whisker.low": 5.2267214372009,
@@ -1107,7 +1107,7 @@
     },
     {
         "Country": "Pakistan",
-        "Happiness.Rank": 80,
+        "Happiness_Rank": 80,
         "Happiness.Score": 5.26900005340576,
         "Whisker.high": 5.35998364135623,
         "Whisker.low": 5.17801646545529,
@@ -1121,7 +1121,7 @@
     },
     {
         "Country": "Indonesia",
-        "Happiness.Rank": 81,
+        "Happiness_Rank": 81,
         "Happiness.Score": 5.26200008392334,
         "Whisker.high": 5.35288859814405,
         "Whisker.low": 5.17111156970263,
@@ -1135,7 +1135,7 @@
     },
     {
         "Country": "Venezuela",
-        "Happiness.Rank": 82,
+        "Happiness_Rank": 82,
         "Happiness.Score": 5.25,
         "Whisker.high": 5.3700319455564,
         "Whisker.low": 5.1299680544436,
@@ -1149,7 +1149,7 @@
     },
     {
         "Country": "Montenegro",
-        "Happiness.Rank": 83,
+        "Happiness_Rank": 83,
         "Happiness.Score": 5.23699998855591,
         "Whisker.high": 5.34104444056749,
         "Whisker.low": 5.13295553654432,
@@ -1163,7 +1163,7 @@
     },
     {
         "Country": "Morocco",
-        "Happiness.Rank": 84,
+        "Happiness_Rank": 84,
         "Happiness.Score": 5.2350001335144,
         "Whisker.high": 5.31834096476436,
         "Whisker.low": 5.15165930226445,
@@ -1177,7 +1177,7 @@
     },
     {
         "Country": "Azerbaijan",
-        "Happiness.Rank": 85,
+        "Happiness_Rank": 85,
         "Happiness.Score": 5.23400020599365,
         "Whisker.high": 5.29928653523326,
         "Whisker.low": 5.16871387675405,
@@ -1191,7 +1191,7 @@
     },
     {
         "Country": "Dominican Republic",
-        "Happiness.Rank": 86,
+        "Happiness_Rank": 86,
         "Happiness.Score": 5.23000001907349,
         "Whisker.high": 5.34906088516116,
         "Whisker.low": 5.11093915298581,
@@ -1205,7 +1205,7 @@
     },
     {
         "Country": "Greece",
-        "Happiness.Rank": 87,
+        "Happiness_Rank": 87,
         "Happiness.Score": 5.22700023651123,
         "Whisker.high": 5.3252461694181,
         "Whisker.low": 5.12875430360436,
@@ -1219,7 +1219,7 @@
     },
     {
         "Country": "Lebanon",
-        "Happiness.Rank": 88,
+        "Happiness_Rank": 88,
         "Happiness.Score": 5.22499990463257,
         "Whisker.high": 5.31888228848577,
         "Whisker.low": 5.13111752077937,
@@ -1233,7 +1233,7 @@
     },
     {
         "Country": "Portugal",
-        "Happiness.Rank": 89,
+        "Happiness_Rank": 89,
         "Happiness.Score": 5.19500017166138,
         "Whisker.high": 5.28504173308611,
         "Whisker.low": 5.10495861023665,
@@ -1247,7 +1247,7 @@
     },
     {
         "Country": "Bosnia and Herzegovina",
-        "Happiness.Rank": 90,
+        "Happiness_Rank": 90,
         "Happiness.Score": 5.18200016021729,
         "Whisker.high": 5.27633568674326,
         "Whisker.low": 5.08766463369131,
@@ -1261,7 +1261,7 @@
     },
     {
         "Country": "Honduras",
-        "Happiness.Rank": 91,
+        "Happiness_Rank": 91,
         "Happiness.Score": 5.18100023269653,
         "Whisker.high": 5.30158279687166,
         "Whisker.low": 5.0604176685214,
@@ -1275,7 +1275,7 @@
     },
     {
         "Country": "Macedonia",
-        "Happiness.Rank": 92,
+        "Happiness_Rank": 92,
         "Happiness.Score": 5.17500019073486,
         "Whisker.high": 5.27217263966799,
         "Whisker.low": 5.07782774180174,
@@ -1289,7 +1289,7 @@
     },
     {
         "Country": "Somalia",
-        "Happiness.Rank": 93,
+        "Happiness_Rank": 93,
         "Happiness.Score": 5.15100002288818,
         "Whisker.high": 5.24248370990157,
         "Whisker.low": 5.0595163358748,
@@ -1303,7 +1303,7 @@
     },
     {
         "Country": "Vietnam",
-        "Happiness.Rank": 94,
+        "Happiness_Rank": 94,
         "Happiness.Score": 5.07399988174438,
         "Whisker.high": 5.14728076457977,
         "Whisker.low": 5.000718998909,
@@ -1317,7 +1317,7 @@
     },
     {
         "Country": "Nigeria",
-        "Happiness.Rank": 95,
+        "Happiness_Rank": 95,
         "Happiness.Score": 5.07399988174438,
         "Whisker.high": 5.20950013548136,
         "Whisker.low": 4.93849962800741,
@@ -1331,7 +1331,7 @@
     },
     {
         "Country": "Tajikistan",
-        "Happiness.Rank": 96,
+        "Happiness_Rank": 96,
         "Happiness.Score": 5.04099988937378,
         "Whisker.high": 5.11142559587956,
         "Whisker.low": 4.970574182868,
@@ -1345,7 +1345,7 @@
     },
     {
         "Country": "Bhutan",
-        "Happiness.Rank": 97,
+        "Happiness_Rank": 97,
         "Happiness.Score": 5.01100015640259,
         "Whisker.high": 5.07933456212282,
         "Whisker.low": 4.94266575068235,
@@ -1359,7 +1359,7 @@
     },
     {
         "Country": "Kyrgyzstan",
-        "Happiness.Rank": 98,
+        "Happiness_Rank": 98,
         "Happiness.Score": 5.00400018692017,
         "Whisker.high": 5.08991990312934,
         "Whisker.low": 4.91808047071099,
@@ -1373,7 +1373,7 @@
     },
     {
         "Country": "Nepal",
-        "Happiness.Rank": 99,
+        "Happiness_Rank": 99,
         "Happiness.Score": 4.96199989318848,
         "Whisker.high": 5.06735607936978,
         "Whisker.low": 4.85664370700717,
@@ -1387,7 +1387,7 @@
     },
     {
         "Country": "Mongolia",
-        "Happiness.Rank": 100,
+        "Happiness_Rank": 100,
         "Happiness.Score": 4.95499992370605,
         "Whisker.high": 5.0216795091331,
         "Whisker.low": 4.88832033827901,
@@ -1401,7 +1401,7 @@
     },
     {
         "Country": "South Africa",
-        "Happiness.Rank": 101,
+        "Happiness_Rank": 101,
         "Happiness.Score": 4.8289999961853,
         "Whisker.high": 4.92943518772721,
         "Whisker.low": 4.72856480464339,
@@ -1415,7 +1415,7 @@
     },
     {
         "Country": "Tunisia",
-        "Happiness.Rank": 102,
+        "Happiness_Rank": 102,
         "Happiness.Score": 4.80499982833862,
         "Whisker.high": 4.88436700701714,
         "Whisker.low": 4.72563264966011,
@@ -1429,7 +1429,7 @@
     },
     {
         "Country": "Palestinian Territories",
-        "Happiness.Rank": 103,
+        "Happiness_Rank": 103,
         "Happiness.Score": 4.77500009536743,
         "Whisker.high": 4.88184834256768,
         "Whisker.low": 4.66815184816718,
@@ -1443,7 +1443,7 @@
     },
     {
         "Country": "Egypt",
-        "Happiness.Rank": 104,
+        "Happiness_Rank": 104,
         "Happiness.Score": 4.7350001335144,
         "Whisker.high": 4.82513378962874,
         "Whisker.low": 4.64486647740006,
@@ -1457,7 +1457,7 @@
     },
     {
         "Country": "Bulgaria",
-        "Happiness.Rank": 105,
+        "Happiness_Rank": 105,
         "Happiness.Score": 4.71400022506714,
         "Whisker.high": 4.80369470641017,
         "Whisker.low": 4.62430574372411,
@@ -1471,7 +1471,7 @@
     },
     {
         "Country": "Sierra Leone",
-        "Happiness.Rank": 106,
+        "Happiness_Rank": 106,
         "Happiness.Score": 4.70900011062622,
         "Whisker.high": 4.85064333498478,
         "Whisker.low": 4.56735688626766,
@@ -1485,7 +1485,7 @@
     },
     {
         "Country": "Cameroon",
-        "Happiness.Rank": 107,
+        "Happiness_Rank": 107,
         "Happiness.Score": 4.69500017166138,
         "Whisker.high": 4.79654085725546,
         "Whisker.low": 4.5934594860673,
@@ -1499,7 +1499,7 @@
     },
     {
         "Country": "Iran",
-        "Happiness.Rank": 108,
+        "Happiness_Rank": 108,
         "Happiness.Score": 4.69199991226196,
         "Whisker.high": 4.79822470769286,
         "Whisker.low": 4.58577511683106,
@@ -1513,7 +1513,7 @@
     },
     {
         "Country": "Albania",
-        "Happiness.Rank": 109,
+        "Happiness_Rank": 109,
         "Happiness.Score": 4.64400005340576,
         "Whisker.high": 4.75246400639415,
         "Whisker.low": 4.53553610041738,
@@ -1527,7 +1527,7 @@
     },
     {
         "Country": "Bangladesh",
-        "Happiness.Rank": 110,
+        "Happiness_Rank": 110,
         "Happiness.Score": 4.60799980163574,
         "Whisker.high": 4.68982165828347,
         "Whisker.low": 4.52617794498801,
@@ -1541,7 +1541,7 @@
     },
     {
         "Country": "Namibia",
-        "Happiness.Rank": 111,
+        "Happiness_Rank": 111,
         "Happiness.Score": 4.57399988174438,
         "Whisker.high": 4.77035474091768,
         "Whisker.low": 4.37764502257109,
@@ -1555,7 +1555,7 @@
     },
     {
         "Country": "Kenya",
-        "Happiness.Rank": 112,
+        "Happiness_Rank": 112,
         "Happiness.Score": 4.55299997329712,
         "Whisker.high": 4.65569159060717,
         "Whisker.low": 4.45030835598707,
@@ -1569,7 +1569,7 @@
     },
     {
         "Country": "Mozambique",
-        "Happiness.Rank": 113,
+        "Happiness_Rank": 113,
         "Happiness.Score": 4.55000019073486,
         "Whisker.high": 4.77410232633352,
         "Whisker.low": 4.3258980551362,
@@ -1583,7 +1583,7 @@
     },
     {
         "Country": "Myanmar",
-        "Happiness.Rank": 114,
+        "Happiness_Rank": 114,
         "Happiness.Score": 4.54500007629395,
         "Whisker.high": 4.61473994642496,
         "Whisker.low": 4.47526020616293,
@@ -1597,7 +1597,7 @@
     },
     {
         "Country": "Senegal",
-        "Happiness.Rank": 115,
+        "Happiness_Rank": 115,
         "Happiness.Score": 4.53499984741211,
         "Whisker.high": 4.6016037812829,
         "Whisker.low": 4.46839591354132,
@@ -1611,7 +1611,7 @@
     },
     {
         "Country": "Zambia",
-        "Happiness.Rank": 116,
+        "Happiness_Rank": 116,
         "Happiness.Score": 4.51399993896484,
         "Whisker.high": 4.64410550147295,
         "Whisker.low": 4.38389437645674,
@@ -1625,7 +1625,7 @@
     },
     {
         "Country": "Iraq",
-        "Happiness.Rank": 117,
+        "Happiness_Rank": 117,
         "Happiness.Score": 4.49700021743774,
         "Whisker.high": 4.62259140968323,
         "Whisker.low": 4.37140902519226,
@@ -1639,7 +1639,7 @@
     },
     {
         "Country": "Gabon",
-        "Happiness.Rank": 118,
+        "Happiness_Rank": 118,
         "Happiness.Score": 4.46500015258789,
         "Whisker.high": 4.5573617656529,
         "Whisker.low": 4.37263853952289,
@@ -1653,7 +1653,7 @@
     },
     {
         "Country": "Ethiopia",
-        "Happiness.Rank": 119,
+        "Happiness_Rank": 119,
         "Happiness.Score": 4.46000003814697,
         "Whisker.high": 4.54272867664695,
         "Whisker.low": 4.377271399647,
@@ -1667,7 +1667,7 @@
     },
     {
         "Country": "Sri Lanka",
-        "Happiness.Rank": 120,
+        "Happiness_Rank": 120,
         "Happiness.Score": 4.44000005722046,
         "Whisker.high": 4.55344719231129,
         "Whisker.low": 4.32655292212963,
@@ -1681,7 +1681,7 @@
     },
     {
         "Country": "Armenia",
-        "Happiness.Rank": 121,
+        "Happiness_Rank": 121,
         "Happiness.Score": 4.37599992752075,
         "Whisker.high": 4.46673461228609,
         "Whisker.low": 4.28526524275541,
@@ -1695,7 +1695,7 @@
     },
     {
         "Country": "India",
-        "Happiness.Rank": 122,
+        "Happiness_Rank": 122,
         "Happiness.Score": 4.31500005722046,
         "Whisker.high": 4.37152201749384,
         "Whisker.low": 4.25847809694707,
@@ -1709,7 +1709,7 @@
     },
     {
         "Country": "Mauritania",
-        "Happiness.Rank": 123,
+        "Happiness_Rank": 123,
         "Happiness.Score": 4.29199981689453,
         "Whisker.high": 4.37716361626983,
         "Whisker.low": 4.20683601751924,
@@ -1723,7 +1723,7 @@
     },
     {
         "Country": "Congo (Brazzaville)",
-        "Happiness.Rank": 124,
+        "Happiness_Rank": 124,
         "Happiness.Score": 4.29099988937378,
         "Whisker.high": 4.41005350500345,
         "Whisker.low": 4.17194627374411,
@@ -1737,7 +1737,7 @@
     },
     {
         "Country": "Georgia",
-        "Happiness.Rank": 125,
+        "Happiness_Rank": 125,
         "Happiness.Score": 4.28599977493286,
         "Whisker.high": 4.37493396580219,
         "Whisker.low": 4.19706558406353,
@@ -1751,7 +1751,7 @@
     },
     {
         "Country": "Congo (Kinshasa)",
-        "Happiness.Rank": 126,
+        "Happiness_Rank": 126,
         "Happiness.Score": 4.28000020980835,
         "Whisker.high": 4.35781083270907,
         "Whisker.low": 4.20218958690763,
@@ -1765,7 +1765,7 @@
     },
     {
         "Country": "Mali",
-        "Happiness.Rank": 127,
+        "Happiness_Rank": 127,
         "Happiness.Score": 4.19000005722046,
         "Whisker.high": 4.26967071101069,
         "Whisker.low": 4.11032940343022,
@@ -1779,7 +1779,7 @@
     },
     {
         "Country": "Ivory Coast",
-        "Happiness.Rank": 128,
+        "Happiness_Rank": 128,
         "Happiness.Score": 4.17999982833862,
         "Whisker.high": 4.27518256321549,
         "Whisker.low": 4.08481709346175,
@@ -1793,7 +1793,7 @@
     },
     {
         "Country": "Cambodia",
-        "Happiness.Rank": 129,
+        "Happiness_Rank": 129,
         "Happiness.Score": 4.16800022125244,
         "Whisker.high": 4.27851781353354,
         "Whisker.low": 4.05748262897134,
@@ -1807,7 +1807,7 @@
     },
     {
         "Country": "Sudan",
-        "Happiness.Rank": 130,
+        "Happiness_Rank": 130,
         "Happiness.Score": 4.13899993896484,
         "Whisker.high": 4.34574716508389,
         "Whisker.low": 3.9322527128458,
@@ -1821,7 +1821,7 @@
     },
     {
         "Country": "Ghana",
-        "Happiness.Rank": 131,
+        "Happiness_Rank": 131,
         "Happiness.Score": 4.11999988555908,
         "Whisker.high": 4.22270720854402,
         "Whisker.low": 4.01729256257415,
@@ -1835,7 +1835,7 @@
     },
     {
         "Country": "Ukraine",
-        "Happiness.Rank": 132,
+        "Happiness_Rank": 132,
         "Happiness.Score": 4.09600019454956,
         "Whisker.high": 4.18541010454297,
         "Whisker.low": 4.00659028455615,
@@ -1849,7 +1849,7 @@
     },
     {
         "Country": "Uganda",
-        "Happiness.Rank": 133,
+        "Happiness_Rank": 133,
         "Happiness.Score": 4.08099985122681,
         "Whisker.high": 4.19579996705055,
         "Whisker.low": 3.96619973540306,
@@ -1863,7 +1863,7 @@
     },
     {
         "Country": "Burkina Faso",
-        "Happiness.Rank": 134,
+        "Happiness_Rank": 134,
         "Happiness.Score": 4.03200006484985,
         "Whisker.high": 4.12405906438828,
         "Whisker.low": 3.93994106531143,
@@ -1877,7 +1877,7 @@
     },
     {
         "Country": "Niger",
-        "Happiness.Rank": 135,
+        "Happiness_Rank": 135,
         "Happiness.Score": 4.02799987792969,
         "Whisker.high": 4.11194681972265,
         "Whisker.low": 3.94405293613672,
@@ -1891,7 +1891,7 @@
     },
     {
         "Country": "Malawi",
-        "Happiness.Rank": 136,
+        "Happiness_Rank": 136,
         "Happiness.Score": 3.97000002861023,
         "Whisker.high": 4.07747881740332,
         "Whisker.low": 3.86252123981714,
@@ -1905,7 +1905,7 @@
     },
     {
         "Country": "Chad",
-        "Happiness.Rank": 137,
+        "Happiness_Rank": 137,
         "Happiness.Score": 3.93600010871887,
         "Whisker.high": 4.0347115239501,
         "Whisker.low": 3.83728869348764,
@@ -1919,7 +1919,7 @@
     },
     {
         "Country": "Zimbabwe",
-        "Happiness.Rank": 138,
+        "Happiness_Rank": 138,
         "Happiness.Score": 3.875,
         "Whisker.high": 3.97869964271784,
         "Whisker.low": 3.77130035728216,
@@ -1933,7 +1933,7 @@
     },
     {
         "Country": "Lesotho",
-        "Happiness.Rank": 139,
+        "Happiness_Rank": 139,
         "Happiness.Score": 3.80800008773804,
         "Whisker.high": 4.04434397548437,
         "Whisker.low": 3.5716561999917,
@@ -1947,7 +1947,7 @@
     },
     {
         "Country": "Angola",
-        "Happiness.Rank": 140,
+        "Happiness_Rank": 140,
         "Happiness.Score": 3.79500007629395,
         "Whisker.high": 3.95164193540812,
         "Whisker.low": 3.63835821717978,
@@ -1961,7 +1961,7 @@
     },
     {
         "Country": "Afghanistan",
-        "Happiness.Rank": 141,
+        "Happiness_Rank": 141,
         "Happiness.Score": 3.79399991035461,
         "Whisker.high": 3.87366141527891,
         "Whisker.low": 3.71433840543032,
@@ -1975,7 +1975,7 @@
     },
     {
         "Country": "Botswana",
-        "Happiness.Rank": 142,
+        "Happiness_Rank": 142,
         "Happiness.Score": 3.76600003242493,
         "Whisker.high": 3.87412266626954,
         "Whisker.low": 3.65787739858031,
@@ -1989,7 +1989,7 @@
     },
     {
         "Country": "Benin",
-        "Happiness.Rank": 143,
+        "Happiness_Rank": 143,
         "Happiness.Score": 3.65700006484985,
         "Whisker.high": 3.74578355133533,
         "Whisker.low": 3.56821657836437,
@@ -2003,7 +2003,7 @@
     },
     {
         "Country": "Madagascar",
-        "Happiness.Rank": 144,
+        "Happiness_Rank": 144,
         "Happiness.Score": 3.64400005340576,
         "Whisker.high": 3.71431910589337,
         "Whisker.low": 3.57368100091815,
@@ -2017,7 +2017,7 @@
     },
     {
         "Country": "Haiti",
-        "Happiness.Rank": 145,
+        "Happiness_Rank": 145,
         "Happiness.Score": 3.6029999256134,
         "Whisker.high": 3.73471479773521,
         "Whisker.low": 3.47128505349159,
@@ -2031,7 +2031,7 @@
     },
     {
         "Country": "Yemen",
-        "Happiness.Rank": 146,
+        "Happiness_Rank": 146,
         "Happiness.Score": 3.59299993515015,
         "Whisker.high": 3.69275031983852,
         "Whisker.low": 3.49324955046177,
@@ -2045,7 +2045,7 @@
     },
     {
         "Country": "South Sudan",
-        "Happiness.Rank": 147,
+        "Happiness_Rank": 147,
         "Happiness.Score": 3.59100008010864,
         "Whisker.high": 3.72553858578205,
         "Whisker.low": 3.45646157443523,
@@ -2059,7 +2059,7 @@
     },
     {
         "Country": "Liberia",
-        "Happiness.Rank": 148,
+        "Happiness_Rank": 148,
         "Happiness.Score": 3.53299999237061,
         "Whisker.high": 3.65375626087189,
         "Whisker.low": 3.41224372386932,
@@ -2073,7 +2073,7 @@
     },
     {
         "Country": "Guinea",
-        "Happiness.Rank": 149,
+        "Happiness_Rank": 149,
         "Happiness.Score": 3.50699996948242,
         "Whisker.high": 3.58442812889814,
         "Whisker.low": 3.4295718100667,
@@ -2087,7 +2087,7 @@
     },
     {
         "Country": "Togo",
-        "Happiness.Rank": 150,
+        "Happiness_Rank": 150,
         "Happiness.Score": 3.49499988555908,
         "Whisker.high": 3.59403811171651,
         "Whisker.low": 3.39596165940166,
@@ -2101,7 +2101,7 @@
     },
     {
         "Country": "Rwanda",
-        "Happiness.Rank": 151,
+        "Happiness_Rank": 151,
         "Happiness.Score": 3.47099995613098,
         "Whisker.high": 3.54303023353219,
         "Whisker.low": 3.39896967872977,
@@ -2115,7 +2115,7 @@
     },
     {
         "Country": "Syria",
-        "Happiness.Rank": 152,
+        "Happiness_Rank": 152,
         "Happiness.Score": 3.46199989318848,
         "Whisker.high": 3.66366855680943,
         "Whisker.low": 3.26033122956753,
@@ -2129,7 +2129,7 @@
     },
     {
         "Country": "Tanzania",
-        "Happiness.Rank": 153,
+        "Happiness_Rank": 153,
         "Happiness.Score": 3.34899997711182,
         "Whisker.high": 3.46142975538969,
         "Whisker.low": 3.23657019883394,
@@ -2143,7 +2143,7 @@
     },
     {
         "Country": "Burundi",
-        "Happiness.Rank": 154,
+        "Happiness_Rank": 154,
         "Happiness.Score": 2.90499997138977,
         "Whisker.high": 3.07469033300877,
         "Whisker.low": 2.73530960977077,
@@ -2157,7 +2157,7 @@
     },
     {
         "Country": "Central African Republic",
-        "Happiness.Rank": 155,
+        "Happiness_Rank": 155,
         "Happiness.Score": 2.69300007820129,
         "Whisker.high": 2.86488426923752,
         "Whisker.low": 2.52111588716507,
