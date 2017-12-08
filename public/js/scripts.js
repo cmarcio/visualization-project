@@ -1,3 +1,8 @@
+// Data variables
+var data2015 = [];
+var data2016 = [];
+var data2017 = [];
+
 // Functions
 
 function isMobileWidth() {
@@ -10,6 +15,14 @@ function toggleView() {
     } else {
         $("#wrapper").removeClass("toggled");
     }
+}
+
+function getData(year, list) {
+    $.getJSON("data/" + year + ".json", function (data) {
+        data.forEach(function(item){
+            list.push(item);
+        });
+    });
 }
 
 // Event Handlers
@@ -31,7 +44,11 @@ $(window).resize(function () {
     toggleView();
 });
 
+
 // Run when the page finishes loading
 $(document).ready(function () {
     toggleView();
+    getData("2015", data2015);
+    getData("2016", data2016);
+    getData("2017", data2017);
 });
