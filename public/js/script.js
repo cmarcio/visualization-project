@@ -1,3 +1,4 @@
+// Functions
 
 function isMobileWidth() {
     return $('#mobile-indicator').is(':visible');
@@ -6,21 +7,31 @@ function isMobileWidth() {
 function toggleView() {
     if (!isMobileWidth()) {
         $("#wrapper").addClass("toggled");
-        //$("#menu-toggle").hide();
     } else {
         $("#wrapper").removeClass("toggled");
-        //$("#menu-toggle").show();
     }
 }
 
-// Menu Toggle Script
+// Event Handlers
+
+// Sidebar toggle
 $("#menu-toggle").click(function (e) {
     e.preventDefault();
     $("#wrapper").toggleClass("toggled");
+});
+
+// Load dinamic content
+$(".sidebar-nav li a").click(function (e) {
+    e.preventDefault();
+    var url = this.href;
+    $("#content").load(url);
 });
 
 $(window).resize(function () {
     toggleView();
 });
 
-toggleView();
+// Run when the page finishes loading
+$(document).ready(function () {
+    toggleView();
+});
