@@ -54,6 +54,12 @@ body {
   margin-right: -250px;
 }
 
+/* Navbar Syles */
+
+.navbar-toggler:hover {
+  cursor: pointer;
+}
+
 
 /* Sidebar Styles */
 
