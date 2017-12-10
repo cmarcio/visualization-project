@@ -1,1 +1,82 @@
 <h1>Introdução</h1>
+<br>
+<h2>Contexto</h2>
+<p>O <a href="http://worldhappiness.report/">Relatório Mundial da Felicidade</a> é uma pesquisa publicada pela Rede de Soluções para o 
+    Desenvolvimento Sustentável da ONU e tem como objetivo medir a felicidade. O primeiro relatório
+    foi publicado em 2012, seguido pelas peblicações de 2013, 2015, 2016 e 2017. O relatório de 2017
+    classifica 155 países de acordo com seu nível de felicidade e foi publicado dia 20 de março. O relatório
+    continua crescendo e ganhando reconhecimento internacional, ajudando as autoridades  e 
+    pesquisadores a entender como os indicadores sociais contribuem para a felicidade de uma nação.
+</p>
+
+<h2>Dados</h2>
+<p>O índice e ranking de felicidade usam dados fornecidos pelo <a href="http://analytics.gallup.com/213704/world-poll.aspx">Gallup World Poll</a>. As pontuações são baseadas
+    nas respostas das perguntas sobre avaliação da vida. Nesse tipo de questão os entrevistados são solicitados
+    para que pensem em uma nota de 0 a 10 para sua vida, onde 0 é a pior tipo de vida que a pessoa possa imaginar e 10
+    a melhor tipo vida que ele consegue imaginar. A pontuação é gerada a partir de amostrar representativas de cada
+    nacionalidade. Os outros seis atributos são estimativas do quanto cada um dos seis indicadores (Produção econômica, 
+    suporte social, expectativa de vida, liberdade, ausência de corrupção, generosidade) contribuem para tornar as avaliações
+    da vida maior em cada país.
+</p>
+
+<table class="table" style="width:100%">
+    <tr>
+        <th>Atributo</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>País</td>
+        <td>Nome do país</td>
+    </tr>
+    <tr>
+        <td>Posição</td>
+        <td>Posição no Ranking de felicidade</td>
+    </tr>
+    <tr>
+        <td>Pontuação</td>
+        <td>Índice de felicidade</td>
+    </tr>
+    <tr>
+        <td>PIB</td>
+        <td>Medida do quanto o Produto Interno Bruto do país contribui para o índice de felicidade</td>
+    </tr>
+    <tr>
+        <td>Suporte social</td>
+        <td>Medida do quanto o Suporte social contribue para o índice de felicidade</td>
+    </tr>
+    <tr>
+        <td>Expectativa de vida</td>
+        <td>Medida do quanto a expectativa de vida contribui para o índice de felicidade</td>
+    </tr>
+    <tr>
+        <td>Liberdade</td>
+        <td>Medida do quanto a liberdade contribui para o índice de felicidade</td>
+    </tr>
+    <tr>
+        <td>Generosidade</td>
+        <td>Medida do quanto a generosidade contribui para o índice de felicidade</td>
+    </tr>
+    <tr>
+        <td>Ausência de corrupção</td>
+        <td>Medida do quanto a ausência de corrupção contribui para o índice de felicidade</td>
+    </tr>
+        <td>Resíduo de Distopia</td>
+        <td>Medida do quanto o resíduo de distopia contribui para o índice de felicidade </td>
+    </tr>
+</table>
+
+<p>O resíduo de distopia é o valor do índice de felicidade calculado para um país fictício onde todos
+    os indicadores possuem o pior valor possível. A soma dos 6 atributos citados anteriormente mais o 
+    resíduo de distopia é igual ao índice de felicidade.</p>
+
+<h2>Pré-processamento</h2>
+
+<p>Para facilitar a utilização dos dados em uma aplicação Web os mesmos foram convertidos para o formato
+    JSON (Javascript Object Notation) e estão disponíveis na pasta "public/data" no <a href="https://github.com/marciodscampos/visualization-project">repositório</a> do projeto.
+    Alguns scripts de agregação de dados foram utilizados para associar a informação de continente aos países,
+    para evitar perda de desempenho o resultado foi salvo em um novo arquivo que não precisa ser pré-processado
+    pelos clientes quando fizer um acesso. Os scripts estão no arquivo "public/js/scripts.js" e os dados utilizados 
+    para agregar a informação de continentes aos países estão no site <a href="http://country.io/data/">country.io</a>.
+</p>
+
+<h2>Ferramentas</h2>

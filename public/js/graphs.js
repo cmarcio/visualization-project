@@ -83,7 +83,7 @@ function scatterMatrixPlot(){
     Plotly.newPlot('scatterMatrixDiv', data, layout);
 }
 
-function mapPlot(){
+function mapPlot(dataYear){
     var data = [{
         type: 'choropleth',
         locationmode: 'country names',
@@ -93,7 +93,7 @@ function mapPlot(){
         autocolorscale: false
     }];
 
-    data2017.forEach(function(item){
+    dataYear.forEach(function(item){
         data[0].locations.push(item.Country);
         data[0].text.push(item.Country);
         data[0].z.push(item.Happiness_Score);
