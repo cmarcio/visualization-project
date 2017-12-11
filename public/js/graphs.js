@@ -1,9 +1,28 @@
+var dataColumns = {
+    "Country": [],
+    "Happiness_Rank": [],
+    "Happiness_Score": [],
+    "Whisker_high": [],
+    "Whisker_low": [],
+    "Economy_GDP": [],
+    "Family": [],
+    "Health_Life_Expectancy": [],
+    "Freedom": [],
+    "Generosity": [],
+    "Trust_Government_Corruption": [],
+    "Dystopia_Residual": []
+};
+
 function getColumn(data, column_name){
+    if(dataColumns[column_name].length != 0){
+        return dataColumns[column_name];
+    }
     var column = [];
     data.forEach(function(item){
         column.push(item[column_name]);
-    })
-    return column;
+    });
+    dataColumns[column_name] = column;
+    return dataColumns[column_name];
 }
 
 function scatterPlot(){
@@ -27,12 +46,12 @@ function scatterPlot(){
 }
 
 function scatterMatrixPlot(){
-    var columns = ["Economy_GDP", "Health_Life_Expectancy","Freedom"];
+    var columns = ["Economy_GDP", "Family", "Health_Life_Expectancy", "Freedom"];
     var interval = 0.9/columns.length;
     var space = 0.1/columns.length;
     var data = [];
     var layout = {
-        title: 'Matriz Scatterplot',
+        title: 'Coeficiente de felicidade 2017',
         xaxis: { domain: [0, interval - space] },
         yaxis: { domain: [1 - interval + space, 1], title: columns[0] },
         showlegend: false,

@@ -1,3 +1,20 @@
+<h1>Matriz Scatterplot</h1>
+
+<p>Para entender como as váriaveis estão relacionadas foi feito uma matriz de scatter plot onde cada elemento da matriz é o
+    scatter plot do conjunto de dados considerando um par de atributos apenas. Como a visualização exige bastante espaço
+    de tela e fazer uma matriz 6x6 com todos os atributos disponíveis não era eficiente em termos de tempo de execução e tornava
+    os scatter plots muito pequenos, foi decidido não considerar os atributos que tem o menor impacto no índice de felicidade 
+    (generosidade e ausência de corrupção).
+</p>
+<p>
+    O atributo índice de felicidade foi mapeado para a cor dos pontos, sendo a escala de cores um mapa de calor vermelho e azul.
+    Esse mapeamento é útil para identificar rapidamente os grupos de países com felicidade alta e baixa.
+</p>
+<p>
+    O nome do país foi mapeado para uma label, que pode ser vista ao posicionar o cursos sobre um ponto qualquer.
+    Isso permite que o usuário descubra rapidamente qual é um ponto de intersse no gráfico, como um outlier.
+</p>
+
 <div id="scatterMatrixDiv"></div>
 <script>
     scatterMatrixPlot();
